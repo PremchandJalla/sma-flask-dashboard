@@ -1,0 +1,4879 @@
+{
+    "total_revenue": "\u20ac42913.92",
+    "average_order_value": "\u20ac11.43",
+    "top_selling_items": {
+        "BCRS": 1282,
+        "1 Scoop": 449,
+        "CAPPUCCINO": 286,
+        "Small Still water": 240,
+        "Cappuccino": 233
+    },
+    "spending_by_day": {
+        "Friday": 11080.67,
+        "Monday": 4866.57,
+        "Saturday": 7484.63,
+        "Sunday": 2604.83,
+        "Thursday": 4316.02,
+        "Tuesday": 4692.64,
+        "Wednesday": 4935.89
+    },
+    "vat_anomalies": [
+        {
+            "Order Number": 1431134.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271688.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271937.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271425.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276405.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274754.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271770.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274915.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419223.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271818.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433611.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275947.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271698.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276346.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271218.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271249.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436811.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274780.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272554.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432709.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271323.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276131.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275819.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276848.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274475.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272223.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274786.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436542.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1423129.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276587.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1434195.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271283.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276066.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1437741.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272015.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1439480.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275710.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275029.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273862.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1424811.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276116.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1437971.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276718.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276481.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276481.0,
+            "VAT Rate": "18.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272842.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1425217.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276660.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276534.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271436.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272077.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271687.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276778.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276222.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274430.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1428919.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1434446.0,
+            "VAT Rate": "18.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271732.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1420925.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272213.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419681.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275769.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1420335.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275827.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274629.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1427095.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1434407.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271459.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273877.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273449.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1441540.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273881.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273746.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1424940.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276672.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1440108.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272905.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419693.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1440354.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275698.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1417659.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271716.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273794.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274749.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276648.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271414.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272179.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271490.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 270867.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1420539.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271357.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272823.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1425850.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272897.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276379.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271846.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271761.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1428991.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273874.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272824.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1435438.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433570.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271174.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271691.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271101.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1434300.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271535.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271645.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1420887.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271152.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272477.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276619.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436646.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276041.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433788.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436553.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1434510.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272062.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271665.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1435546.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271311.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276575.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276313.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272346.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273968.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1420896.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271304.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1441563.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271443.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1424613.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272975.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272406.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274549.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273151.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271548.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432584.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274969.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272665.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276855.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273125.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271469.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1440493.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271105.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276599.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271186.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432578.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272529.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272887.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273755.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271833.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271296.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1430030.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438415.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271466.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274847.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271822.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271232.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274747.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274671.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271102.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432440.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276513.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271610.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271756.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273377.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271699.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272683.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276049.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272718.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276798.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432168.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1441020.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1440477.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271522.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272875.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275560.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1416744.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273504.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1435750.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433472.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276829.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1418787.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1416941.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272465.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271087.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274929.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271162.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274932.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271907.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271678.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1441090.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276366.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271835.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433110.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273775.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271139.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272019.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271663.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276557.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1424933.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1422787.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276313.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275980.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273134.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1439623.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273270.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275764.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271511.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271894.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274268.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271467.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271768.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1428946.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275431.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272102.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276567.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271149.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276429.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273892.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1427059.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273033.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1439798.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1420479.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271570.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274763.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271237.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419790.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271629.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438203.0,
+            "VAT Rate": "18.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436179.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1423506.0,
+            "VAT Rate": "18.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276061.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271501.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271760.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275597.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275821.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271875.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275706.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271631.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271941.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273635.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433077.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1439179.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271690.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273847.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274134.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432591.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274204.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273211.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276609.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271759.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273832.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271461.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272895.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1437076.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271862.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1421413.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272838.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271159.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1424689.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271350.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271481.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276545.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271377.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274841.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271347.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272586.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273187.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271165.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273693.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276554.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271718.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419437.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1437166.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271359.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272748.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1425439.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436820.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436669.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276007.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271903.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276854.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273768.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271092.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272856.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271464.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438378.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271456.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1441542.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271936.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275604.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271518.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275774.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271695.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275667.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275840.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271318.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1428343.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275925.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276102.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276119.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274691.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276594.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272774.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271473.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275322.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272777.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271215.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276447.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275761.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276220.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271697.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275721.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1441493.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274131.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276623.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271246.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1440704.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274047.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271488.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272100.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275992.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1427654.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1427767.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273131.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276015.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276820.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274697.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1439640.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1427354.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272836.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274382.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275517.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271735.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273819.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1439610.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1420585.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272918.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1423343.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276827.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275155.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1420133.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271930.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1437256.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275904.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271462.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275026.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1423209.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275532.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271120.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271220.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271376.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276110.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271161.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271887.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276578.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271743.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271339.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275707.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274854.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276568.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271731.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272922.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272618.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272314.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274877.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272140.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271395.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273063.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273822.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275248.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275832.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276571.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271279.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272782.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273193.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272767.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273301.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273040.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1440252.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271692.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276828.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276521.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272974.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276589.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432728.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436889.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272289.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433981.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271164.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271705.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271369.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271815.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271414.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272126.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1421408.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271156.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271504.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1425101.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274334.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276078.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272040.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1427440.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1421635.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276196.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273823.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271974.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272828.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271952.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273693.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274054.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276148.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433340.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273558.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272877.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438112.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271744.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271480.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271909.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276392.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1429255.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275820.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271315.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271275.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274715.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271210.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1427442.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272058.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275665.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1418458.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1437084.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275718.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274300.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276562.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276838.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276776.0,
+            "VAT Rate": "18.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436935.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274291.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272147.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274337.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275122.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1441511.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1420639.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272013.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271169.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276857.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1421561.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271219.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271774.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272121.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271763.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1423277.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272961.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432149.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1425077.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1430002.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271792.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1427294.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1416596.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275696.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274068.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274225.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272701.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1440153.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438133.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271591.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271648.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436051.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1421185.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271704.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1440073.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1437335.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271696.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276511.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1427002.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1418083.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272160.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276734.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274796.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273628.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276507.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271325.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1439597.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432868.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1421695.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271780.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272865.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275740.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272733.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1421773.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276113.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275845.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272287.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274647.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1427103.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272391.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1417852.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1425047.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276758.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275051.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272872.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272672.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272988.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274783.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438090.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275224.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275788.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432994.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275129.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276668.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271234.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272098.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271477.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1434440.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432418.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271394.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271478.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275659.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275094.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271375.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1417860.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438199.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276561.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276728.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272230.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276142.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275960.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272715.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271863.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1428944.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271164.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419529.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275908.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271813.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275652.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1423920.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273749.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1429002.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272901.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271173.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272832.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1429956.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271176.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1424524.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1435690.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273829.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271817.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274105.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275815.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275534.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276762.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273943.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419539.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438415.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273844.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275086.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271445.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271256.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271398.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271276.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271412.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276001.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272144.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272801.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273658.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273322.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1439187.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272977.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432506.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271321.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271661.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272489.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271736.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275030.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1437365.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276635.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271654.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276550.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1441063.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432969.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271514.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273826.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276458.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274736.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "18.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276470.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433263.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271677.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274725.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274704.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432753.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1421217.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274174.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276690.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276720.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272191.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271396.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273682.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275219.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1425461.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272178.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271804.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271200.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272830.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1437530.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275068.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274859.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271508.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275758.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271205.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275365.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433463.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433837.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273013.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1440702.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271262.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271383.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275551.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1437501.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1420483.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436580.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276577.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275123.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1424981.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271593.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1417926.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271898.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275770.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432972.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272866.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275826.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276486.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272354.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273763.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271150.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271288.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1434199.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273552.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271637.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276638.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276808.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271632.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1417704.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274592.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273144.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274789.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275131.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276792.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1424082.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274901.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271534.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272002.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271363.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271905.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271514.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271873.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419735.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273570.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275396.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1429986.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1427901.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274028.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436607.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272886.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275780.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276821.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1437793.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271119.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271506.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273072.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271701.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271414.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276527.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271475.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433138.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276474.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432434.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276724.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271779.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276138.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433684.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271089.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272844.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271305.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272991.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271546.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271465.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273923.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276575.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275998.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1424581.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273128.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276774.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275133.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271351.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273193.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276542.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272783.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1431903.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1416550.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271741.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419574.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1440875.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271713.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275054.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271143.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1434728.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271789.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276846.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273377.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272656.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432459.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273284.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275165.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274632.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1434464.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275880.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275754.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432870.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271848.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275805.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1435587.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276537.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419679.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272779.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275260.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271524.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271095.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433176.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275763.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271673.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1417892.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271913.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271201.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1429934.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271720.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271912.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274899.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1417939.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272814.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419763.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276014.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275491.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438389.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273820.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272039.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1423813.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271719.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276555.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1421725.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1416793.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271104.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1433154.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1440988.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271920.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419741.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438509.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275739.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273103.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276817.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275678.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271519.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276551.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271625.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274799.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272140.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276423.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1423509.0,
+            "VAT Rate": "18.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275519.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274912.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1424874.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419350.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271712.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271772.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272689.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272714.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276213.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438862.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1424600.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438126.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271824.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271425.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 274879.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1434965.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419797.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273887.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "18.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276544.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 272138.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276704.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271834.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275720.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271918.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271090.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271754.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 275834.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1417286.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1423128.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1438192.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "18.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1419594.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273795.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271172.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1425151.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271521.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1432918.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": NaN,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271664.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276802.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 271843.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1436618.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 1416529.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 273381.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        },
+        {
+            "Order Number": 276036.0,
+            "VAT Rate": "0.00%",
+            "Amount": 0.0
+        }
+    ],
+    "avg_by_conditions": {
+        "No": {
+            "Cold": 13.22,
+            "Rainy": 10.53,
+            "Sunny": 11.19
+        },
+        "Yes": {
+            "Cold": 9.93,
+            "Rainy": 10.19,
+            "Sunny": 10.59
+        }
+    }
+}

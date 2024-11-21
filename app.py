@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, redirect, url_for, flash, render_template, send_file
+from flask import Flask, request, jsonify, redirect, url_for, flash, render_template, send_file, make_response, session
 import os
 import zipfile
 import pandas as pd
@@ -9,6 +9,9 @@ from utils.generate_insights import calculate_insights
 from dash import Dash, html, dcc, dash_table  # Import dash_table from dash
 import plotly.express as px
 import json
+import matplotlib.pyplot as plt
+from io import BytesIO
+import pdfkit
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
@@ -128,73 +131,25 @@ create_dashboard(app)
 @app.route("/", methods=["GET", "POST"])
 def upload_file():
     if request.method == "POST":
-        print("File upload received.")
-        
         file = request.files.get("file")
         if not file or not file.filename.endswith(".zip"):
             flash("Please upload a valid zip file.")
-            print("Invalid file format or missing file.")
             return redirect(request.url)
 
         file_path = os.path.join(app.config["UPLOAD_FOLDER"], file.filename)
         file.save(file_path)
-        extracted_files = []
         
         try:
             with zipfile.ZipFile(file_path, 'r') as zip_ref:
                 zip_ref.extractall("data/")
-                extracted_files = zip_ref.namelist()
-                print(f"Files extracted: {extracted_files}")
+            session['data_uploaded'] = True  # Set session variable
         except zipfile.BadZipFile:
             flash("Invalid zip file.")
-            print("Error: Bad zip file.")
-            return redirect(request.url)
-        
-        all_data = []
-        for filename in extracted_files:
-            if filename.startswith("__MACOSX") or filename.startswith("._"):
-                print(f"Skipping hidden macOS file: {filename}")
-                continue
-
-            if filename.endswith(".stm"):
-                try:
-                    with open(os.path.join("data", filename), 'r', encoding='utf-8') as stm_file:
-                        content = stm_file.read()
-                        parsed_data = parse_stm(content)
-                        all_data.append(parsed_data)
-                        print(f"Parsed data for {filename}: {parsed_data}")
-                except UnicodeDecodeError as e:
-                    print(f"Error parsing {filename}: {e}")
-                    flash(f"Error parsing file {filename}: {e}")
-                    continue
-                except Exception as e:
-                    print(f"General error parsing {filename}: {e}")
-                    flash(f"Error parsing file {filename}: {e}")
-                    continue
-
-        output_file = os.path.join(app.config["UPLOAD_FOLDER"], "orders_data.xlsx")
-        try:
-            process_stm_files(all_data, output_file)
-            print("Data successfully processed and saved to Excel.")
-        except Exception as e:
-            flash(f"Error processing data to Excel: {e}")
-            print(f"Error processing data to Excel: {e}")
             return redirect(request.url)
 
-        # Clean up uploaded file
-        os.remove(file_path)
-        print("Uploaded zip file removed after processing.")
-
-        # Generate insights
-        insights = calculate_insights(output_file)
-        with open("output.json", "w") as f:
-            json.dump(insights, f, indent=4)
-        print("Insights generated and saved to output.json.")
-
-        # Redirect to the dashboard to view insights
         return redirect(url_for("dashboard"))
 
-    return render_template("upload.html")
+    return render_template("upload.html", data_uploaded=session.get('data_uploaded', False))
 
 
 @app.route("/generate-insights-llm", methods=["GET"])
@@ -229,7 +184,10 @@ def generate_insights():
 
 @app.route("/dashboard")
 def dashboard():
-    return render_template("dashboard.html")
+    if not session.get('data_uploaded'):
+        flash("Please upload data first.")
+        return redirect(url_for("upload_file"))
+    return render_template("dashboard.html", data_uploaded=session.get('data_uploaded', False))
 
 
 @app.route("/download-enriched-data")
@@ -241,6 +199,35 @@ def download_enriched_data():
         flash("Enriched data file not found.")
         print("Enriched data file not found.")
         return redirect(url_for("upload_file"))
+
+
+@app.route("/predict-inventory")
+def predict_inventory():
+    if not session.get('data_uploaded'):
+        flash("Please upload data first.")
+        return redirect(url_for("upload_file"))
+
+    # Load insights from output.json
+    with open("output.json", "r") as f:
+        insights = json.load(f)
+
+    # Use top-selling items for forecast data
+    forecast_data = [
+        {"Product": product, "Current Stock": 100, "Predicted Sales (30 days)": quantity, "Vendor": "Vendor X"}
+        for product, quantity in insights["top_selling_items"].items()
+    ]
+
+    return render_template("predict_inventory.html", forecast_data=forecast_data)
+
+
+@app.route("/generate-po", methods=["POST"])
+def generate_po():
+    # Deserialize the forecast data
+    forecast_data_json = request.form.get("forecast_data")
+    forecast_data = json.loads(forecast_data_json)
+    
+    # Render the purchase order template
+    return render_template("purchase_order.html", forecast_data=forecast_data)
 
 
 if __name__ == "__main__":

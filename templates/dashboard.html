@@ -11,6 +11,9 @@
         <header>
             <h1>Sales Insights Dashboard</h1>
             <p>Explore the generated insights from your uploaded data.</p>
+            {% if data_uploaded %}
+                <a href="/predict-inventory" class="button">Predict Inventory</a>
+            {% endif %}
         </header>
 
         <main>

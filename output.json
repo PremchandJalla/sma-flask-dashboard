@@ -4866,14 +4866,14 @@
     ],
     "avg_by_conditions": {
         "No": {
-            "Cold": 13.22,
-            "Rainy": 10.53,
-            "Sunny": 11.19
+            "Cold": 11.25,
+            "Rainy": 10.32,
+            "Sunny": 12.27
         },
         "Yes": {
-            "Cold": 9.93,
-            "Rainy": 10.19,
-            "Sunny": 10.59
+            "Cold": 10.34,
+            "Rainy": 9.92,
+            "Sunny": 11.65
         }
     }
 }

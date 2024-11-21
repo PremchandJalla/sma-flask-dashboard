@@ -69,7 +69,10 @@
 <body>
     <header>
         <h1>HackNJIT Interactive Dashboard</h1>
-        <a href="/dashboard" style="color: white; text-decoration: none; float: right; margin-right: 20px;">Dashboard</a>
+        {% if data_uploaded %}
+            <a href="/dashboard" class="button">Dashboard</a>
+            <a href="/predict-inventory" class="button">Predict Inventory</a>
+        {% endif %}
     </header>
 
     <div class="container">
@@ -84,7 +87,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2024 Premchand Jalla & Sai Leela Kuragayala</p>
+        <p>&copy; 2024 Premchand Jalla</p>
     </footer>
 </body>
 </html>

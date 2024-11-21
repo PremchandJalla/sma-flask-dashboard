@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Purchase Order</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        input[type="text"], input[type="number"] {
+            width: 100%;
+            padding: 5px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #1f77b4;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #155a8a;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Purchase Order</h1>
+        <form id="po-form">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Product</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Vendor</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in forecast_data %}
+                    <tr>
+                        <td>{{ item.Product }}</td>
+                        <td><input type="text" value="Price Placeholder"></td>
+                        <td><input type="number" value="{{ item['Predicted Sales (30 days)'] }}"></td>
+                        <td><input type="text" value="{{ item.Vendor }}"></td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <button type="button" onclick="sendOrder()">Send Order to Vendor</button>
+        </form>
+    </div>
+
+    <script>
+        function sendOrder() {
+            alert("Message sent to vendor!");
+        }
+    </script>
+</body>
+</html> 

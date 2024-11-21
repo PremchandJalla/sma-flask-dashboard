@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict Inventory</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Predict Inventory</h1>
+            <p>Forecast the inventory needs for the next 30 days.</p>
+        </header>
+
+        <main>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Product</th>
+                        <th>Current Stock</th>
+                        <th>Predicted Sales (30 days)</th>
+                        <th>Vendor</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in forecast_data %}
+                    <tr>
+                        <td>{{ item.Product }}</td>
+                        <td>{{ item['Current Stock'] }}</td>
+                        <td>{{ item['Predicted Sales (30 days)'] }}</td>
+                        <td>{{ item.Vendor }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <form action="/generate-po" method="post">
+                <input type="hidden" name="forecast_data" value='{{ forecast_data | tojson | safe }}'>
+                <button type="submit">Generate Purchase Order</button>
+            </form>
+        </main>
+
+        <footer>
+            <p>&copy; 2024 Sales Insights. Powered by Star Micronics-inspired Design.</p>
+        </footer>
+    </div>
+</body>
+</html> 
